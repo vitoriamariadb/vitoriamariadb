@@ -13,12 +13,6 @@
   Experiência em ETL/ELT, integração de APIs, modelagem de dados e geração de insights estratégicos.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vit%C3%B3ria-maria-silva-dos-santos/"><img src="https://img.shields.io/badge/LinkedIn-cba6f7?style=for-the-badge&logo=linkedin&logoColor=1e1e2e" alt="LinkedIn"></a>
-  <a href="https://wa.me/5561995520526"><img src="https://img.shields.io/badge/WhatsApp-a6e3a1?style=for-the-badge&logo=whatsapp&logoColor=1e1e2e" alt="WhatsApp"></a>
-  <a href="mailto:vitoriamaria.sds@gmail.com"><img src="https://img.shields.io/badge/Gmail-f38ba8?style=for-the-badge&logo=gmail&logoColor=1e1e2e" alt="Gmail"></a>
-  <a href="https://github.com/vitoriamariadb"><img src="https://img.shields.io/badge/GitHub-b4befe?style=for-the-badge&logo=github&logoColor=1e1e2e" alt="GitHub"></a>
-</p>
 
 ---
 
@@ -60,7 +54,7 @@
 - Desenvolveu e otimizou processos ETL/ELT de ponta a ponta, migrando dados de diversas fontes para GCP/BigQuery
 - Gerenciou modelagem de bases relacionais e não relacionais, assegurando performance e escalabilidade da infraestrutura
 
-![Agência F2F](https://img.shields.io/badge/Agencia_F2F-f5c2e7?style=flat-square) **Analista de BI Jr** | Jun 2020 - Mar 2022
+![Agência F2F](https://img.shields.io/badge/Agencia_F2F-f5c2e7?style=flat-square) **Analista de BI** | Jun 2020 - Mar 2022
 
 - Arquitetou e construiu Data Lake do zero, estabelecendo fundação tecnológica para múltiplos projetos analíticos
 - Atuou como facilitadora técnica, traduzindo necessidades de negócios em soluções de dados robustas
@@ -106,8 +100,10 @@
   Focada em dados, BI e insights estratégicos — aberta a novas oportunidades e colaborações.
 </p>
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/vit%C3%B3ria-maria-silva-dos-santos/"><img src="https://img.shields.io/badge/LinkedIn-cba6f7?style=for-the-badge&logo=linkedin&logoColor=1e1e2e" alt="LinkedIn"></a>
   <a href="https://wa.me/5561995520526"><img src="https://img.shields.io/badge/WhatsApp-a6e3a1?style=for-the-badge&logo=whatsapp&logoColor=1e1e2e" alt="WhatsApp"></a>
   <a href="mailto:vitoriamaria.sds@gmail.com"><img src="https://img.shields.io/badge/Gmail-f38ba8?style=for-the-badge&logo=gmail&logoColor=1e1e2e" alt="Gmail"></a>
+  <a href="https://github.com/vitoriamariadb"><img src="https://img.shields.io/badge/GitHub-b4befe?style=for-the-badge&logo=github&logoColor=1e1e2e" alt="GitHub"></a>
 </p>
