@@ -50,14 +50,13 @@
 - Desenvolveu pipelines ETL em Python com consumo de APIs, implementando rotinas de limpeza e validação de dados
 
 ![Paim United Creators](https://img.shields.io/badge/Paim_United_Creators-89dceb?style=flat-square) **Analista de Dados** | Mai 2022 - Nov 2024
-
-- Desenvolveu e otimizou processos ETL/ELT de ponta a ponta, migrando dados de diversas fontes para GCP/BigQuery
+- Participei e desenvolvi a construiu Data Lake do zero com a equipe de dados, estabelecendo fundação tecnológica para múltiplos projetos analíticos
 - Gerenciou modelagem de bases relacionais e não relacionais, assegurando performance e escalabilidade da infraestrutura
 
 ![Agência F2F](https://img.shields.io/badge/Agencia_F2F-f5c2e7?style=flat-square) **Analista de BI** | Jun 2020 - Mar 2022
 
-- Arquitetou e construiu Data Lake do zero, estabelecendo fundação tecnológica para múltiplos projetos analíticos
 - Atuou como facilitadora técnica, traduzindo necessidades de negócios em soluções de dados robustas
+- Desenvolveu e otimizou processos ETL/ELT de ponta a ponta, migrando dados de diversas fontes para GCP/BigQuery
 
 ![ANAC](https://img.shields.io/badge/ANAC-a6e3a1?style=flat-square) **Estagiária em Análise de Dados** | Abr 2019 - Mai 2020
 
